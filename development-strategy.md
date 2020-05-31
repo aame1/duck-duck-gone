@@ -48,7 +48,7 @@ __As a user I want to be able to see a straight-forward purpose of this website 
 
 __As a user, I want to introduce the users to the extra functionalites of the website.__ 
 
-_We need to discuss if we want to create one branch per section or we make only one branch for all three sections and assign it to one user
+_We need to discuss if we want to create one branch per section or we make only one branch for all three sections and assign it to one user_
 
 
 ### HTML 
