@@ -1,18 +1,16 @@
 # Development Strategy
 
->  `duck-duck-gone`
+> `duck-duck-gone`
 
 For the purposes of practicing collaboration, we are trying to clone the duckduckgo.com website for our project. 
 
+## Mockup
 
-## Wireframe
-
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+<!-- include a mockup for your project in this repository, and display it here -->
+![Landing page_1](https://user-images.githubusercontent.com/45841105/83420768-6269c480-a427-11ea-9b0b-a4fa1f69b060.png)
+![Landing page_2](https://user-images.githubusercontent.com/45841105/83420723-4f56f480-a427-11ea-924b-b72220e188bf.png)
 
 ## 0. Set-Up
-
 
 __A User can see my initial repository and live demo__
 
@@ -22,11 +20,24 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
+> assigned to `Anna`
 
+__As a user I want to be able to read the overview of this project__
+
+### Repo
+
+- [ ] Created a branch called  `readme`
+- [ ] Updated the initial [README.md](README.md) file
+- [ ] Update this [development-strategy.md](development-strategy.md) file
+- [ ] Relates PR to an issue Relates #, Open a PR, Review & Closes #4
+
+### README.md
+
+- [ ] A readme file needs to be added for the users to read initially.
 
 ## 1. User Story: First Looks and Feels of a Search-Engine
 
-> assigned to `Abdul` 
+> assigned to `Abdul`
 
 __As a user I want to be able to see a straight-forward purpose of this website with a navigation bar__
 
@@ -40,7 +51,7 @@ Branch called  `1-header-nav`and another `2-search-bar` to work on the header.
 
 ### CSS
 
-- css styles proper to the header element 
+- css styles proper to the header element
 
 ## 2. User Story: Sections
 
@@ -53,12 +64,11 @@ __As a user, I want to introduce the users to the extra functionalites of the we
 - create three branches with distinguished name for each section to work on.
 branches names : `section-left` `section-middle` and `section-right`
 
-
 ### HTML 
 
 Create sections with with the 3 boxes and content inside.
 
-### CSS 
+### CSS
 
 Added style to meet story's requirements
 
@@ -69,22 +79,16 @@ Added style to meet story's requirements
 _As a user, I want to be able to consult the website from diferrent devices:_ 
 
 - mobile
-- tablets 
+- tablets
 
-
-### Repo 
+### Repo
 
 - Created a branch called `media-queries`
 - Updated the development-strategy.md according to the changes made in html/css to meet the User-Story requirements.
 
-
-### HTML 
-
-
-
+### HTML
 
 ### CSS
-
 
 4. ## User Story: Footer & Credits
 
@@ -92,14 +96,11 @@ _As a user, I want to be able to consult the website from diferrent devices:_
 
 _As a user I want to see who's behind the creation of this clone website_
 
-
-
-## Repo 
+## Repo
 
 - Created a branch called `copyright`
 
-
-### HTML 
+### HTML
 
 Added e `footer` element to meet story's requirements
 
@@ -107,17 +108,13 @@ Added e `footer` element to meet story's requirements
 
 Added style to the `footer``element
 
-## 5. User Story: Adjustements 
+## 5. User Story: Adjustements
 
 _As a front end developer I want to make the last adjustements before going live_ 
 
-
-## 6. Final Touches 
+## 6. Final Touches
 
 > Assigned to `Anna`
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- Write final, complete README
 - Validate code to check for any last mistakes
