@@ -1,1 +1,54 @@
 
+.header-container {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(66, 41, 41);
+
+}
+
+.header-container .main-title {
+    font-weight: lighter;
+}
+
+
+
+
+.search-field[type=text] {
+ 
+    width:45em;
+    height: 40px;
+    border-radius: 0.5em;
+    border: 0.5px solid lightgrey;
+    float: left;
+    padding-left: 10px;
+    margin-right: -35px;
+    box-shadow:0px 1px 10px lightgrey;
+
+}
+
+.search-field::placeholder {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(148, 141, 141);
+   font-size: 15px;
+}
+
+
+.search-magnifier[type=submit] {
+    height: 42px;
+    background-color: transparent;
+    border: 0.5px solid lightgrey;
+    border: none;
+    float: left;
+    border-radius: 0.5em;
+    position: absolute;
+
+}
+
+.search-magnifier:hover {
+    background-color: lightgreen;
+
+}
