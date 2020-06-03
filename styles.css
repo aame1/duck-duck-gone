@@ -99,6 +99,39 @@
     margin: 12px;
     font-size: 14px;   
 }
+
+
+/* Responsive Design Requirement*/
+
+/* Medium devices (landscape tablets, 840px and down) */
+@media only screen and (max-width: 840px) {
+    .search-field[type=text]  {
+        width: 40em;
+    }
+    .search-field::placeholder {
+        font-size: 13px;
+    }
+    #features h5 {
+        font-size: 1.1em;
+        font-weight:normal;
+    }
+} 
+
+/* Extra small devices (phones, 540px and down) */
+@media only screen and (max-width: 540px) {
+    .search-field[type=text]  {
+        width: 35em;
+    }
+    .search-field::placeholder {
+        font-size: 11px;
+    }
+    #features h5 {
+        font-size: 1em;
+        font-weight:lighter;
+    }
+} 
+
  .boxes-title{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
+
