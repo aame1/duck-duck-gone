@@ -100,6 +100,7 @@
     font-size: 14px;   
 }
 
+
 /* Responsive Design Requirement*/
 
 /* Medium devices (landscape tablets, 840px and down) */
@@ -129,3 +130,8 @@
         font-weight:lighter;
     }
 } 
+
+ .boxes-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
