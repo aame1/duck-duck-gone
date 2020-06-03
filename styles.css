@@ -14,7 +14,30 @@
     font-weight: lighter;
 }
 
+.header-container .not-tracked {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
 
+}
+
+.ddg-button {
+    background-color: #678fff;
+    color: white;
+    height: 45px;
+    border-radius: 10px;
+    border-color: #678fff;
+    font-weight: bold;
+    border-right: none;
+    border-bottom: none;
+    width: 12%;
+    font-size: 0.9em;
+    
+
+}
+
+.ddg-button:hover {
+    cursor: pointer;
+}
 
 
 .search-field[type=text] {
@@ -45,6 +68,7 @@
     float: left;
     border-radius: 0.5em;
     position: absolute;
+
 
 }
 
@@ -99,3 +123,5 @@
     margin: 12px;
     font-size: 14px;   
 }
+
+
