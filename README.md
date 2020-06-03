@@ -19,18 +19,22 @@ Here is a working live demo :  https://aame1.github.io/duck-duck-gone/
 
 ##### Search Form & Button
 <!-- include a video for how the page displays on different devices here -->
-![Demo]()
 
 #### Laptop, Tablet, Mobile support
 
 The Duck Duck Gone is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 <!-- include a video for how the search and button responds here -->
-![Responsive]()
+![mockup_tablet_1](https://user-images.githubusercontent.com/45841105/83608846-b090dc00-a57d-11ea-899e-7dbf8e8066e1.png)
+![mockup_tablet_2](https://user-images.githubusercontent.com/45841105/83608852-b2f33600-a57d-11ea-81f9-e53bfec3455f.png)
+![mockup_tablet_3](https://user-images.githubusercontent.com/45841105/83609383-82f86280-a57e-11ea-9765-e1a68d32492d.png)
+![mockup_tablet_4](https://user-images.githubusercontent.com/45841105/83609265-53495a80-a57e-11ea-9492-9af8718c711a.png)
+
 
 ## Built with
 
 - HTML5
 - CSS3
+- [Flexboxgrid](http://flexboxgrid.com)
 - Media Queries
 - Accessibility & ARIA
 
