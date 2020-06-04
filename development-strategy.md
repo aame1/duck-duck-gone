@@ -76,21 +76,28 @@ Added style to meet story's requirements
 
 > Assigned to `Anna`
 
-_As a user, I want to be able to consult the website from diferrent devices:_ 
+_As a user, I want to be able to consult the website from diferrent devices:_
 
 - mobile
 - tablets
 
 ### Repo
 
-- Created a branch called `media-queries`
-- Updated the development-strategy.md according to the changes made in html/css to meet the User-Story requirements.
+- [ ] Created a branch called `media-queries`
+- [ ] Updated the development-strategy.md according to the changes made in html/css to meet the User-Story requirements.
+- [ ] Add mockup for tablets in the README file
 
 ### HTML
 
+- [ ] Create the meta tag and set viewport to adapt to variety of windows sizes
+
 ### CSS
 
-4. ## User Story: Footer & Credits
+- [ ] Make the site layout adapts to accomodate different breakpoint widths.
+- [ ] Resize search input to accomodate breakpoints 840px and 540px
+- [ ] Resize font to acomodate breakpoints 840px and 540px
+
+1. ## User Story: Footer & Credits
 
 > Assigned to `Abdul`
 
