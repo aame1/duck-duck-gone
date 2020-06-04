@@ -112,6 +112,58 @@
     font-size: 14px;   
 }
 
+
+.footer-monster {
+
+    display: table;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    
+}
+
+.copyright {
+  
+
+    display: flex;
+    text-align: center;
+   flex-direction: row;
+   justify-content: space-around; 
+
+   
+
+}
+
+
+.lujianna, .mohammad, .aame1 {
+    text-decoration: none;
+    color: black; 
+    font-size: 30px;
+    opacity: 0.5;
+    transition: 0.5s;
+    padding-bottom: 50px;
+
+}
+
+.lujianna:hover {
+
+    color: red;
+    opacity: 100%;
+
+
+}
+
+.mohammad:hover {
+    color: green;
+    opacity: 100%;
+    border-color:#678fff;;
+}
+
+.aame1:hover {
+    color:#678fff;
+    opacity: 100%;
+}
+
 /* Responsive Design Requirement*/
 
 /* Medium devices (landscape tablets, 840px and down) */
@@ -145,3 +197,4 @@
  .boxes-title{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
+
