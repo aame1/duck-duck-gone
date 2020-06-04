@@ -1,6 +1,5 @@
 
 .header-container {
-
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -14,8 +13,27 @@
     font-weight: lighter;
 }
 
+.header-container .not-tracked {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
 
+.ddg-button {
+    background-color: #678fff;
+    color: white;
+    height: 45px;
+    border-radius: 10px;
+    border-color: #678fff;
+    font-weight: bold;
+    border-right: none;
+    border-bottom: none;
+    width: 12%;
+    font-size: 0.9em;   
+}
 
+.ddg-button:hover {
+    cursor: pointer;
+}
 
 .search-field[type=text] {
  
@@ -36,7 +54,6 @@
    font-size: 15px;
 }
 
-
 .search-magnifier[type=submit] {
     height: 42px;
     background-color: transparent;
@@ -45,20 +62,16 @@
     float: left;
     border-radius: 0.5em;
     position: absolute;
-
 }
 
 .search-magnifier:hover {
     background-color: lightgreen;
-
 }
-
 
 #features{
     padding: 15px;
     margin-top: 30px;
 }
-
 
 #features h3{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -71,8 +84,7 @@
     margin: 0;
     margin-bottom: 40px;
     text-align: center;
-    line-height: 1.5;
-    
+    line-height: 1.5;   
 }
 
 #features h5{
@@ -99,7 +111,6 @@
     margin: 12px;
     font-size: 14px;   
 }
-
 
 /* Responsive Design Requirement*/
 
@@ -134,4 +145,3 @@
  .boxes-title{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
-
