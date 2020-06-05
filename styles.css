@@ -79,12 +79,13 @@
     margin: 0;
 }
 
-#features p{
+.col-par{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
+    font-size: 14;
     margin-bottom: 40px;
     text-align: center;
-    line-height: 1.5;   
+    line-height: 1.5em;   
 }
 
 #features h5{
@@ -97,19 +98,38 @@
 
 .container{
     margin: auto;
+    background-color: tomato;
 }
 
-#img-mrg{
-    margin: 60px;
+.col-img{
+   
+    padding-top: 50px;
 }
 
-.my-col{
-    border:white solid;
-    border-radius: 30px; 
-    background-color: white;  
+.boxes-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ .bg-color{
+     background-color: tomato;
+ }
+
+
+a{
+    text-decoration: none;
+    color:#678fff;
+}
+
+.col-box{
+    height: 320px;
+    background-color: white;
+    width: 10px;
+    padding: 5px;
+    margin: 20px;
     line-height: 3em;
     margin: 12px;
-    font-size: 14px;   
+    font-size: 14px;
+    border-radius: 25px;   
 }
 
 
@@ -194,7 +214,11 @@
     }
 } 
 
+
+
+
  .boxes-title{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
+
 
